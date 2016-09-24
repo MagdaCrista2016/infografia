@@ -1,5 +1,6 @@
 #titulo-azul {
   height: 100px;
-  width: 200px;
+  width: 300px;
   background: blue;
+  border: 3px solid green;
 }
